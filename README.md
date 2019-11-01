@@ -1,4 +1,6 @@
 # hactober
 hactober
 
-##presented by
+## presented by
+>digital ocean
+>dev.to
