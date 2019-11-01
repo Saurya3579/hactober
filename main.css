@@ -1,11 +1,14 @@
 .header{
   font-size: 32px;
-  color: purple;
+  color: #ff00aa;
+  font-weight: bold;
 }
   
 body{
   height: 100vh;
   width:100vw;
+  background-color: purple;
+  color: white;
 }
 
 .fullpage-flex{
